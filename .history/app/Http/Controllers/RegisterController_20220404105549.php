@@ -1,0 +1,25 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+class RegisterController extends Controller
+{
+    public function index()
+    {
+        return view('register.index', [
+            'title' => 'Register'
+        ]);
+    }
+}
+
+{
+   pub store(Request $request)
+    {
+        $request->validate([
+            'name' => 'required|max:255',
+
+        ]);
+    }
+}
