@@ -17,7 +17,7 @@
       <div class="col-lg-12">
         <div class="card mb-4">
           <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-            <h6 class="m-0 font-weight-bold text-primary">Hai, Yang Baca ;)</h6>
+            <h6 class="m-0 font-weight-bold text-primary">Tabel</h6>
           </div>
           <div class="table-responsive p-3">
             <table class="table align-items-center table-flush" id="dataTable">
